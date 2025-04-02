@@ -1,3 +1,4 @@
 "New wonderful file" 
 "New wonderful file" 
 "One new line." 
+"Second line"
